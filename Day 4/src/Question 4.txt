@@ -1,0 +1,2 @@
+Day 4    ---- Question 4
+In the  class A they are trying to access the value of variable a directly.It is not possible since variable a is declared as private in class OopEXcercises.So,it can be accessed only through functions declared in class OopEXcercises..

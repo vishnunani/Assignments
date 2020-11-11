@@ -1,0 +1,9 @@
+Day 4 ---- Question 6
+
+The output of given programs:
+a in A = 100
+a in B = 123
+a in B = 123
+a in C = 543
+a in C = 543
+a in C = 543

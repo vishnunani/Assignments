@@ -1,0 +1,7 @@
+Day 4 ----  Question 5
+The output of given program is:
+
+objA.a = 333
+objB.b = 3.14159
+objA.a = 222
+objB.b = 333.33
